@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @LeoLawrence
-- 👀 I’m interested in software engineering and automation.
+- 👀 I’m interested in software engineering.
 - 🌱 I’m currently learning systems programming.
-- 💞️ I’m not actively looking to collaborate at the moment, but feel free to ask.
-- 📫 Reach me at https://www.linkedin.com/in/leo-lawrence-542164189/
+- 📫 Reach me at leo.lawrence@rutgers.edu
 
 <!---
 LeoLawrence/LeoLawrence is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
