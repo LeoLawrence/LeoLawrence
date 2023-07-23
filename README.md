@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeoLawrence
 - 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning systems programming.
+- 🌱 I’m currently learning Formal Languages and Automata!
 - 📫 Reach me at leo.lawrence@rutgers.edu
 
 <!---
