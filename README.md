@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @LeoLawrence
-- 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning Formal Languages and Automata!
+- 👀 I’m interested in software engineering, low-latency programming, and education.
+- 🌱 I’m currently learning full-stack development.
+- 📝 I currently use the MERN stack, but have experience with Python, C, and Java.
 - 📫 Reach me at leo.lawrence@rutgers.edu
 
 <!---
