@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning full-stack development.
 - 📝 I currently use the MERN stack, but have experience with Python, C, and Java.
 - 📫 Reach me at leo.lawrence@rutgers.edu
+- Please check out my website at https://leolawrence.github.io/ for more information about me!
 
 <!---
 LeoLawrence/LeoLawrence is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
