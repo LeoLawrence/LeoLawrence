@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LeoLawrence.
-- 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning full-stack development in JavaScript for personal projects.
-- 📝 The tech stack I use at my job is C# with ASP, WPF, .NET 8, OracleDB (sometimes), and SQL server (most of the time). I use Bitbucket for work so the commit history on this account has gaps.
+- 👀 I am a Software Engineer and Data Scientist.
+- 🌱 I’m currently learning full-stack development in JavaScript for personal projects and improving my PyTorch skills for data science.
+- 📝 The tech stack I use at my job is C# with ASP, WPF, .NET 8, OracleDB, and SQL server. I use Bitbucket for work so there are relatively few commits on this account. Bitbucket has a daily commit.
 - 📫 Reach me at leo.lawrence@rutgers.edu or through [LinkedIn](https://www.linkedin.com/in/leozlawrence/).
 - My website is still a WIP. Once it is available, you can check out https://leolawrence.github.io/ for more information about me.
 
