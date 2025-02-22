@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @LeoLawrence.
-- 👀 I am a Software Engineer and Data Scientist.
-- 🌱 I’m currently working on full-stack development in JavaScript for personal projects and improving my PyTorch skills for data science.
-- 📝 The tech stack I use at my job is C# with ASP, WPF, .NET 8, OracleDB, and SQL server. I use Bitbucket for work so there are relatively few commits on this account. Bitbucket has a daily commit 5 days per week for work. I am coding more outside of work as of late-Jan, so I will be consistently committing more.
+- 👀 I work at the intersection between Software Engineering and Data Science.
+- 🌱 My hobby project is Machine Learning Engineering with PyTorch. More specificially, I am implementing fine tuning LLMs to run on Tesla T4 GPUs using [QLoRA](https://arxiv.org/abs/2305.14314)
+- 📝 My job primarily uses the Microsoft stack (C#, .NET, ASP.NET, WPF, SQL Server) as well as Oracle DB for some essential applications. I use Python data analysis and data wrangling (Jupyter Notebook).
 - 📫 Reach me at leo.lawrence@rutgers.edu or through [LinkedIn](https://www.linkedin.com/in/leozlawrence/).
-- My website is still a WIP. Once it is available, you can check out https://leolawrence.github.io/ for more information about me. Estimate for website completion is also TBD.
 
 <!---
 LeoLawrence/LeoLawrence is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
