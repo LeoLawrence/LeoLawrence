@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LeoLawrence.
 - 👀 I work at the intersection between Software Engineering, Data Science, and Machine Learning Engineering.
-- 🌱 My hobby projects are typically things I find interesting after reading papers or Medium articles. Currently working on projects in biotech and finance.
-- 📝 My work experience primarily involves the Microsoft stack (C#, .NET, ASP.NET, WPF, Blazor, SQL Server) as well as Oracle DB (PL/SQL) for some essential applications. I use Python data analysis and data wrangling (Jupyter Notebook).
+- 🌱 My interests are very broad so my hobby projects change all the time. I am currently working on an improved version of Apple Health.
+- 📝 My work experience primarily involves the Microsoft stack (C#, .NET, ASP.NET, WPF, Blazor, SQL Server) as well as Oracle DB (PL/SQL) for some essential applications. I use Python data analysis and data wrangling (Jupyter Notebook). From personal projects and academic experience, I work with Go/Golang, Java, C, and a bunch of the JavaScript flavors (Node, React, Angular, React Native, Vite, etc). I also love AI tools when used correctly!
 - 📫 Reach me at leozlaw@seas.upenn.edu or through [LinkedIn](https://www.linkedin.com/in/leozlawrence/).
 
 <!---
